@@ -52,7 +52,7 @@ Electrical conductivity is a measure of the ability of a solution to carry a cur
 
 ### Factors Affecting Conductivity Measurement:
 
-<center><img src="Images/img1.jpg" title="" /></center>
+<center><img src="images/img1.jpg" title="" /></center>
 
 
 Conductivity may be measured by applying an alternating electrical current (I) to two electrodes immersed in a solution and measuring the resulting voltage (V). During this process, the cations migrate to the negative electrode, the anions to the positive electrode and the solution acts as an electrical conductor.
@@ -63,5 +63,5 @@ Conductivity is typically measured in aqueous solution of electrolytes. Electrol
 4. Frequency change Temperature
 
 In conductivity simulator, to solve the equation use following data
-<center><img src="Images/img2.jpg" title="" /></center>
+<center><img src="images/img2.jpg" title="" /></center>
  
