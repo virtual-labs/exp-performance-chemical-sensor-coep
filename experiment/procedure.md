@@ -24,7 +24,7 @@ In this experiment, by using the formula one can calculate the pH and understand
 ##### Aim: Study the effect of temperature change on measurement of pH.
 #### Step by step Procedure:
 1. In this level the sample is the same as selected in level 2. This is default selection. The pH of the sample is displayed in the control panel.
-2. Click on Get Temperature. The temperature of sample and the output milli volt will be displayed on the screen now. Compare this value with the pervious level output value. The reference temperature considered for the previous levels is 25oC.
+2. Click on Get Temperature. The temperature of sample and the output milli volt will be displayed on the screen now. Compare this value with the pervious level output value. The reference temperature considered for the previous levels is 25&deg;C.
 3. Click on Plot tab to plot the graph.
 You can verify the answer by putting the values in a formula. Only value of the temperature (in Kelvin) will change.
 After completion of all the parts, you can proceed to Post Test to find out if you have understood all aspects of the experiment.
