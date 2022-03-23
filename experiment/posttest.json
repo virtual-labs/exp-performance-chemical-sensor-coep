@@ -2,38 +2,75 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "pH is a measurement of the activity of -----------ions in the sample.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Nitrogen ion",
+        "b": "Carbon ion",
+        "c": "Oxygen ion",
+		"d": "Hydrogen ion"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+     
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": " In pH measurement Optimum measurement accuracy depends on ",: {
+        "a": "Solution concentration",
+        "b": "Salt bridge and Measuring electrode",
+        "c": "Probe Length",
+		"d": "All of these"
       },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": " Electrolytes are substances containing",
+      "answers": {
+        "a": "ions",
+        "b": "cations",
+        "c": "anions"
+		"d": "None of these"
+",
+      },
+     
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+      "question": " Electrical conductivity is a measure of the ability of a solution to carry a -----------.", : {
+        "a": "Inductance",
+        "b": "Resistance",
+        "c": "Current",
+		"d": "Capacitance"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "c",
       "difficulty": "beginner"
-    }
+    },
+    {
+      "question": "In conductivity measurement -------migrate to the negative electrode, the ------ to the positive electrode.",
+      "answers": {
+        "a": "Cations,Cations",
+        "b": "Cations,Anions",
+        "c": "Anions, Cations",
+		"d": "None of these"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "   The accuracy of conductivity measurements can be influenced by",: {
+        "a": " Polarization",
+        "b": "Contamination",
+        "c": "Both, Polarization and Contamination",
+		"d": "None of these"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }   
   ]
 }
+
