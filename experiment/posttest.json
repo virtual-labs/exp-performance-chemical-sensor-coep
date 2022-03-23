@@ -30,9 +30,8 @@
       "answers": {
         "a": "ions",
         "b": "cations",
-        "c": "anions"
+        "c": "anions",
 		"d": "None of these"
-",
       },
      
       "correctAnswer": "a",
