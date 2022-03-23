@@ -14,7 +14,8 @@
       "difficulty": "beginner"
     },
     {
-      "question": " In pH measurement Optimum measurement accuracy depends on ",: {
+      "question": " In pH measurement Optimum measurement accuracy depends on ",
+      "answers": {
         "a": "Solution concentration",
         "b": "Salt bridge and Measuring electrode",
         "c": "Probe Length",
@@ -38,7 +39,8 @@
       "difficulty": "beginner"
     },
     {
-      "question": " Electrical conductivity is a measure of the ability of a solution to carry a -----------.", : {
+      "question": " Electrical conductivity is a measure of the ability of a solution to carry a -----------.", 
+      "answers": {
         "a": "Inductance",
         "b": "Resistance",
         "c": "Current",
@@ -61,7 +63,8 @@
       "difficulty": "beginner"
     },
     {
-      "question": "   The accuracy of conductivity measurements can be influenced by",: {
+      "question": "   The accuracy of conductivity measurements can be influenced by",
+      "answers": {
         "a": " Polarization",
         "b": "Contamination",
         "c": "Both, Polarization and Contamination",
