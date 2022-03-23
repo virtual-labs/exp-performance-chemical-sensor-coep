@@ -1,0 +1,78 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "pH is a measurement of the activity of -----------ions in the sample.",
+      "answers": {
+        "a": "Nitrogen ion",
+        "b": "Carbon ion",
+        "c": "Oxygen ion",
+		"d": "Hydrogen ion"
+      },
+     
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": " In pH measurement Optimum measurement accuracy depends on ",
+      "answers": {
+        "a": "Solution concentration",
+        "b": "Salt bridge and Measuring electrode",
+        "c": "Probe Length",
+		"d": "All of these"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": " Electrolytes are substances containing",
+      "answers": {
+        "a": "ions",
+        "b": "cations",
+        "c": "anions",
+		"d": "None of these"
+      },
+     
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": " Electrical conductivity is a measure of the ability of a solution to carry a -----------.", 
+      "answers": {
+        "a": "Inductance",
+        "b": "Resistance",
+        "c": "Current",
+		"d": "Capacitance"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In conductivity measurement -------migrate to the negative electrode, the ------ to the positive electrode.",
+      "answers": {
+        "a": "Cations,Cations",
+        "b": "Cations,Anions",
+        "c": "Anions, Cations",
+		"d": "None of these"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "   The accuracy of conductivity measurements can be influenced by",
+      "answers": {
+        "a": " Polarization",
+        "b": "Contamination",
+        "c": "Both, Polarization and Contamination",
+		"d": "None of these"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }   
+  ]
+}
+

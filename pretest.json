@@ -1,0 +1,102 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "When the hydrogen ion concentration of a solution increases the solution is called as",
+      "answers": {
+        "a": "Acidic",
+        "b": "Basic",
+        "c": "Neural",
+		"d": "Dialute"
+      },
+     
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The pH of a neutral solution is ",
+      "answers": {
+	"a": "0",
+        "b": "10",
+        "c": "14",
+		"d": "7"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The pH scale generally ranges from",
+      "answers": {
+        "a": "0 to 14",
+        "b": "-14 to 14",
+        "c": "-7 to 7",
+		"d": "-10 to 10"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "PH of distilled water is", 
+      "answers": {	
+        "a": "0",
+        "b": "7",
+        "c": "14",
+		"d": "10"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Buffer solutions are used as a means of keeping pH at a nearly _____ value in a wide variety of chemical applications.",
+      "answers": {
+        "a": "High",
+        "b": "Constant",
+        "c": "Neutral",
+		"d": "Flexible"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Conductivity of a pure and distilled water is",
+      "answers": {
+        "a": "High",
+        "b": "Low",
+        "c": "Zero",
+		"d": "one"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The current through the solution takes place through the movement of",
+      "answers": {	
+        "a": "Electrically charged particles",
+        "b": "Chemically charged particles",
+        "c": "Magnetically charged particles",
+		"d": "None of these"
+      },
+     
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": " The SI unit of conductivity is",
+      "answers": {
+        "a": " Ohms",
+        "b": " Ohms per meter",
+        "c": "Siemens per meter",
+		"d": "None of these"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }   
+  ]
+}
+
