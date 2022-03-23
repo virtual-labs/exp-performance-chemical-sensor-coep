@@ -14,8 +14,9 @@
       "difficulty": "beginner"
     },
     {
-      "question": "The pH of a neutral solution is ",: {
-        "a": "0",
+      "question": "The pH of a neutral solution is ",
+      "answers": {
+	"a": "0",
         "b": "10",
         "c": "14",
 		"d": "7"
@@ -37,7 +38,8 @@
       "difficulty": "beginner"
     },
     {
-      "question": "PH of distilled water is", : {
+      "question": "PH of distilled water is", 
+      "answers": {	
         "a": "0",
         "b": "7",
         "c": "14",
@@ -72,7 +74,8 @@
       "difficulty": "beginner"
     },
     {
-      "question": "The current through the solution takes place through the movement of",: {
+      "question": "The current through the solution takes place through the movement of",
+      "answers": {	
         "a": "Electrically charged particles",
         "b": "Chemically charged particles",
         "c": "Magnetically charged particles",
