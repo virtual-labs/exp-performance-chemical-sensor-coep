@@ -39,7 +39,7 @@ After completion of all the parts, you can proceed to Post Test to find out if y
 2. Select the sample from drop down menu.
 3. Select the concentration of the sample.
 4. Cell constant will be fixed which is displayed as 1 on screen.
-5. After entering data the PPM Concentration, Equivalent weight and Density at 25 °C is displayed in the right side panel.
+5. After entering data the PPM Concentration, Equivalent weight and Density at 25 &Deg;C is displayed in the right side panel.
 6. Enter the calculated specific conductance. For calculations of specific conductance click on Formula tab.
 Using the formula, calculate the value of the conductivity for the selected sample and enter the answer in the box provided (upto 2 decimals with rounding off). Submit the answer using submit button.
 8. If your calculation is correct it will be displayed on the screen. Otherwise you need to recalculate.
